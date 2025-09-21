@@ -164,3 +164,4 @@ D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Syst
 D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\zzzprojects\FinShark-master\api\obj\Debug\net9.0\api.sourcelink.json
