@@ -7,6 +7,7 @@ using api.Interfaces;
 using api.Models;
 using Microsoft.EntityFrameworkCore;
 using api.Interfaces;
+using Microsoft.AspNetCore.Http.HttpResults;
 
 
 namespace api.StockRepository
@@ -27,6 +28,8 @@ namespace api.StockRepository
         {
             return await _context.Comments.FindAsync(id);
         }
+
+        
 
         public async Task<Comment> CreateAsync(Comment comment)
         {

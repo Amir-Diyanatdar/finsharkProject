@@ -165,3 +165,7 @@ D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagg
 D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\zzzprojects\FinShark-master\api\obj\Debug\net9.0\api.sourcelink.json
+D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\zzzprojects\FinShark-master\api\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
